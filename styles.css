@@ -36,9 +36,9 @@
         gap: 15px;
         grid-template-areas:
         "masonry responsive overlap overlap"
-        "masonry fluid explicitlyplaced negativespace"
-        "flexiblebreadth masonry2 explicitlyplaced masonry3"
-        "domorder masonry2 namedtracks namedtracks";
+        "masonry fluid explicitly placed negative space"
+        "flexible breadth masonry2 explicitly placed masonry3"
+        "domorder masonry2 named tracks named tracks";
         max-width: 1200px;
         margin: auto;
         }
