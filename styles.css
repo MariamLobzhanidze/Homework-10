@@ -51,5 +51,10 @@
           align-items: center;
           font-size: large;
         }
+       .masonry| {
+        grid-template-columns: 200px;
+
+ }
+
        
        
